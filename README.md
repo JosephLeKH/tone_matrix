@@ -20,19 +20,6 @@ This project emphasizes low-level memory management, custom data structures, and
 
 ---
 
-## Installation
-
-1. **Prerequisites**:
-   - A C++ compiler that supports modern C++ standards (C++11 or later).
-   - A graphics and audio framework (provided by the assignment setup).
-
-2. **Build Instructions**:
-   - Clone the repository or download the source code.
-   - Ensure all required dependencies are included.
-   - Compile the program using your preferred C++ build system.
-
----
-
 ## Usage
 
 1. **Run the Program**: Launch the compiled ToneMatrix executable.
@@ -43,6 +30,25 @@ This project emphasizes low-level memory management, custom data structures, and
    - Lights correspond to musical notes; experiment with patterns to create rhythms and melodies.
    - Listen to the output as lights are toggled in real-time.
 
+---
+
+## Screnshot
+### App Screenshot
+![App Screenshot](appScreenshot/tone_matrix.png)
+
+---
+
+## Installation
+
+1. **Prerequisites**:
+   - A C++ compiler that supports modern C++ standards (C++11 or later).
+   - A graphics and audio framework (provided by the assignment setup).
+
+2. **Build Instructions**:
+   - Clone the repository or download the source code.
+   - Ensure all required dependencies are included.
+   - Compile the program using your preferred C++ build system.
+     
 ---
 
 ## Code Structure
